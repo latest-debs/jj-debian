@@ -2,6 +2,7 @@
 
 package_name: jj
 github_repo: jj-vcs/jj
+license: Apache-2.0
 artifact_format: tar.gz
 description: "A Git-compatible VCS, powered by Jujutsu"
 
