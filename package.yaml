@@ -1,0 +1,8 @@
+# Package definition for jj
+
+package_name: jj
+github_repo: jj-vcs/jj
+artifact_format: tar.gz
+description: "A Git-compatible VCS, powered by Jujutsu"
+
+# Build for all Debian suites and all supported architectures.
